@@ -1,4 +1,3 @@
-
 exports.localeData = {
 	"en": {
 		"status.success": "SUCCESS",
